@@ -1,0 +1,11 @@
+/babasport-login/target
+/babasport-console/target
+/babasport-portal/target
+/babasport-service-cms/target
+/babasport-service-cob/target
+/babasport-service-product/target
+/babasport-service-solr/target
+/babasport-pojo/target
+/babasport-interface/target
+/babasport-dao/target
+/babasport-common/target
